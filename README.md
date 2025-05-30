@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🚀 Experienced Software Engineer | BSc CS | Problem Solver | Technology Enthusiast ⚡
+  🚀 Experienced Software Engineer | 🎓 BSc CS | Problem Solver 🧠 | Technology Enthusiast ⚡
 </p>
 
 ---
@@ -22,6 +22,66 @@
 I'm a results-driven Software Engineer with 8+ years of experience in building scalable, high-performance backend systems and enterprise-grade infrastructure. I specialize in microservices, distributed systems, and cloud-native development, with a strong focus on clean architecture, testing, and DevOps automation. 
 
 I love turning complex technical challenges into elegant solutions and thrive in collaborative environments with cross-functional teams. Currently diving deeper into machine learning and IoT systems. Always up for an architecture debate or a new tech tool to explore!
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Institute of Computer Systems, System Software Department / Computer Science**\
+📆 2014 - 2018\
+📍 **Odesа Polytechnic National University** - Odesa, Ukraine
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Microservices & Serverless-black?style=for-the-badge"/>
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+
+- 👨‍💻 **Principal Software Engineer**\
+📆 2021 - 2024\
+📍 **Omni Logistics** - Charlotte, North Carolina, USA
+
+<img align="right" src="https://img.shields.io/badge/Microservices-black?style=for-the-badge"/>
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+
+- 👨‍💻 **Senior Software Engineer**\
+📆 2019 - 2021\
+📍 **Zelh** - Ukraine
+
+<img align="right" src="https://img.shields.io/badge/Monolith-black?style=for-the-badge"/>
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+
+- 👨‍💻 **Software Engineer**\
+📆 2017 - 2019\
+📍 **ivia** - Ukraine
+
+<img align="right" src="https://img.shields.io/badge/Monolith-black?style=for-the-badge"/>
+<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+- 👨‍💻 **Software Engineer (Internship)**\
+📆 2016 - 2017\
+📍 **DataArt** - Ukraine
+
+</details>
+
+<details>
+  <summary>💻 My workspace</summary>
+
+  <br>
+  <p align='center'>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/intel-core%20i9%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/AMD%20Radeon%20RX6900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  </p>
+</details>
 
 ---
 
