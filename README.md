@@ -36,32 +36,28 @@ I love turning complex technical challenges into elegant solutions and thrive in
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Microservices & Serverless-black?style=for-the-badge"/>
-<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java | Go | Python-F2F4F9?style=for-the-badge" />
 
 - 👨‍💻 **Principal Software Engineer**\
 📆 2021 - 2024\
 📍 **Omni Logistics** - Charlotte, North Carolina, USA
 
 <img align="right" src="https://img.shields.io/badge/Microservices-black?style=for-the-badge"/>
-<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java | Python-F2F4F9?style=for-the-badge" />
 
 - 👨‍💻 **Senior Software Engineer**\
 📆 2019 - 2021\
 📍 **Zelh** - Ukraine
 
 <img align="right" src="https://img.shields.io/badge/Monolith-black?style=for-the-badge"/>
-<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java | Python-F2F4F9?style=for-the-badge" />
 
 - 👨‍💻 **Software Engineer**\
 📆 2017 - 2019\
 📍 **ivia** - Ukraine
 
 <img align="right" src="https://img.shields.io/badge/Monolith-black?style=for-the-badge"/>
-<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-F2F4F9?style=for-the-badge" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 - 👨‍💻 **Software Engineer (Internship)**\
